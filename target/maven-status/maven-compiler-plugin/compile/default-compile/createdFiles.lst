@@ -1,0 +1,9 @@
+film\FilmCrudImpl.class
+entytyManager\EntityManagerUtil.class
+attore\AttoreCrud.class
+recita\Recita.class
+attore\AttoreCrudImpl.class
+film\Film.class
+attore\Attore.class
+application\FilmJpaApplication.class
+film\FilmCrud.class
